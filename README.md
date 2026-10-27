@@ -287,3 +287,7 @@ The [`docs/`](docs/README.md) directory goes deeper on specific topics:
 
 See also [`CONTRIBUTING.md`](CONTRIBUTING.md), [`SECURITY.md`](SECURITY.md),
 and [`CHANGELOG.md`](CHANGELOG.md).
+
+## Fix for Issue #200: No developer setup guide
+
+Add a local development setup guide covering prerequisites, environment configuration, database setup, and running the service. New contributors have no onboarding documentation.
